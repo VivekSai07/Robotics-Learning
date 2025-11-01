@@ -1,0 +1,2 @@
+## Resources
+- [Kinematic Analysis of Differential Drive Robot](https://aleksandarhaber.com/clear-and-detailed-explanation-of-kinematics-equations-and-geometry-of-motion-of-differential-wheeled-robot-differential-drive-robot/)
